@@ -98,8 +98,6 @@ receiving incremental stream of goliath/backups/dave@zincrsend_1449227766 into p
 received 217MB stream in 367 seconds (607KB/sec)
 receiving incremental stream of goliath/backups/skye@zincrsend_1449227766 into paper/backups/skye@zincrsend_1449227766
 received 312B stream in 1 seconds (312B/sec)
-receiving incremental stream of goliath/backups/theinsurancemarkets@zincrsend_1449227766 into paper/backups/theinsurancemarkets@zincrsend_1449227766
-received 312B stream in 1 seconds (312B/sec)
 receiving incremental stream of goliath/backups/dad@zincrsend_1449227766 into paper/backups/dad@zincrsend_1449227766
 received 312B stream in 1 seconds (312B/sec)
 receiving incremental stream of goliath/backups/web@zincrsend_1449227766 into paper/backups/web@zincrsend_1449227766
